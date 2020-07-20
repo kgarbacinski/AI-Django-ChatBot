@@ -10,7 +10,7 @@
 - [x] finish project
 
 # Introduction
-It's a chatbot deployed to a Django server trained with ANN. 
-Replies-answers JSON file contains few chatbot's behaviour pattern, so feel free to extend the file.
+It's a chatbot trained with ANN and deployed to a Django server.
+Replies-answers JSON file contains few chatbot's behaviour patterns, so feel free to extend the file.
 Front-end made with Bootstrap framework and JS.
 
